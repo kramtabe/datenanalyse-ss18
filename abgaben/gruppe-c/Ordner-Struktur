@@ -1,0 +1,9 @@
+data/: hier kommen erzeugte Datensets rein, die man für die Analyse bzw. Aufgaben benötigt.
+    raw/: hier kommen die Rohdaten in ihrer Orginalform rein. Daten sollen nicht verändert werden.
+  docs/: hier wird alles mögliche an Dokumenten gespeichert, die man für die Analyse braucht. Papers, eigens erstelle Notizen etc.
+  aufgabe-1/: hier kommen sämtliche Dateien zur Aufgabe 1
+  aufgabe-2/: hier kommen sämtliche  Dateien zur Aufgabe 2
+  aufgabe-3/: hier kommen sämtliche  Dateien zur Aufgabe 3
+  aufgabe-4/: hier kommen sämtliche  Dateien zur Aufgabe 4
+  praesentation/: hier kommen sämtliche Daten zur Präsentation
+  notes.md: Dokumentation für einen selbst. Interne Notizzen. (optional)
